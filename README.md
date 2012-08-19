@@ -5,6 +5,10 @@ Command line tool for SauceLabs REST API.
 * get job information
 * get job results (log, flv, images)
 
+SauceLabs doesn't provide api to know how many images in the result for now.
+So this script counts images on the selenium-server.log.
+
+
 INSTALL
 =======
   $ rake gem
