@@ -12,12 +12,12 @@ INSTALL
 
 USAGE
 =====
-   # list jobs
-   $ sauce-jobs list
+  # list jobs
+  $ sauce-jobs list
 
-   # get detailed job information
-   $ sauce-jobs job [job-id]
+  # get detailed job information
+  $ sauce-jobs job [job-id]
 
-   # get job results
-   $ sauce-jobs results [job-id]
+  # get job results
+  $ sauce-jobs results [job-id]
 
